@@ -1,0 +1,2 @@
+# Exclude the configuration file with the users whose the home directory will be processed
+conf/users.conf
